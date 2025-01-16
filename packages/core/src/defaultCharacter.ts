@@ -4,7 +4,7 @@ export const defaultCharacter: Character = {
     name: "Elza",
     username: "Elza",
     plugins: [],
-    clients: [],
+    clients: [https://x.com/elzawakesup],
     modelProvider: ModelProviderName.LLAMALOCAL,
     settings: {
         secrets: {},
